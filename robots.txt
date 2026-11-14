@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cis-c0.github.io/RFSentinel/sitemap.xml
+Sitemap: https://cis-c0.github.io/sitemap.xml
